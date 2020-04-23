@@ -13,6 +13,7 @@ body
     background-attachment: fixed;
 }
 .mySlides {display:flex;
+    flex-wrap:wrap;
    margin-left: 100px;
 }
 .row2 {
@@ -31,6 +32,7 @@ body
 .btn1,.btn2{
     margin-left: 80%;
     display:flex;
+    flex-wrap:wrap;
     height:40px;
     width:100px;
     text-align: center;
