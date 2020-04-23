@@ -17,22 +17,22 @@
         <nav>
           <ul>
             <li>
-              <a class="active" href="index.html">
+              <a class="active" href="index.php">
                 <b>HOME</b>
               </a>
             </li>
             <li>
-              <a href="About-me.html">
+              <a href="About-me.php">
                 <b>ABOUT ME</b>
               </a>
             </li>
             <li>
-              <a href="My Work.html">
+              <a href="My Work.php">
                 <b>My Work</b>
               </a>
             </li>
             <li>
-              <a href="Contact-Me.html">
+              <a href="Contact-Me.php">
                 <b>Contact Me</b>
               </a>
             </li>
