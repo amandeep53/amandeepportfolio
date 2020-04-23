@@ -5,6 +5,8 @@
   <link href="./style/style.css" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Lobster|Roboto:400,700" rel="stylesheet">
   <link href="https://fonts.googleapis.com/css?family=Great+Vibes" rel="stylesheet">
+  <link rel="shortlink" href="https://amandeepportfolio.herokuapp.com/">
+  <link rel="canonical" href="https://amandeepportfolio.herokuapp.com/">
   <title>Contact Amandeep web designer and developer</title>
   <meta charset="utf-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
