@@ -6,6 +6,8 @@
   <title>My Work web designer developer</title>
   <meta charset="utf-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+  <link rel="shortlink" href="https://amandeepportfolio.herokuapp.com/">
+  <link rel="canonical" href="https://amandeepportfolio.herokuapp.com/">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="Data visualisation,Wordpress website,Javascript game development,Responsive website">
     <meta name="Description" content="I am web developer and i am pursuing web design and development course in conestoga college.I have made ample number of projects in different languages like html,css,android,javascript.">
