@@ -6,8 +6,6 @@
   <title>Amandeep Portfolio</title>
   <meta charset="utf-8">
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
-    <link rel="shortlink" href="https://amandeepportfolio.herokuapp.com/">
-    <link rel="canonical" href="https://amandeepportfolio.herokuapp.com/">
   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <meta name="keywords" content="Web developer and designer,portfolio,Responsive,Freelancer">
     <meta name="Description" content="I am web developer and i am pursuing web design and development course in conestoga college.I have made ample number of projects in different languages like html,css,android,javascript.  ">
@@ -44,31 +42,22 @@
     </header>
   </div>
   <div class="container">
-     <main>           
-<h2 class="w3-center">Web Developer</h2>
-<div class="w3-content w3-section" style="max-width:800px">
-  <img class="mySlides" src="images/wordpress.jpg" alt="project in wordpress" style="width:100%">
-  <img class="mySlides" src="images/game.png" alt="game project in javascript"style="width:100%">
-  <img class="mySlides" src="images/penguin.png" alt="find penguin project in javascript" style="width:100%">
-  <img class="mySlides" src="images/javagroup.png" alt="group project in javascript" style="width:100%">
-  <img class="mySlides" src="images/perfectsandwich.jpg.png" alt="project in html and css "style="width:100%">   
+    <main class="main-conact">
+      <div class="webwp_content">
+        <article id="post-46" class="post-46 page type-page status-publish hentry">
+          <div class="entry-content">
+            <h1>
+              <strong>PORTFOLIO</strong>
+            </h1>
+            <p style="text-align:center">
+              <img src="./images/aman2.jpg">
+            </p>
+            <h2>Hello <br>I'm Amandeep</h2><br>
+            <h3> Web Developer<br>Javascript Developer</h3>
 </div>
-<script>
-var myIndex = 0;
-carousel();
+          </article>
+        </div>
 
-function carousel() {
-  var i;
-  var x = document.getElementsByClassName("mySlides");
-  for (i = 0; i < x.length; i++) {
-    x[i].style.display = "none";  
-  }
-  myIndex++;
-  if (myIndex > x.length) {myIndex = 1}    
-  x[myIndex-1].style.display = "block";  
-  setTimeout(carousel, 2000); // Change image every 2 seconds
-}
-</script>
       </main>
     <footer>
     <a href="https://www.facebook.com/aman.sarai.31"><i class="fa fa-facebook" style="font-size:28px; color: #fff"></i></a>
