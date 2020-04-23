@@ -12,7 +12,7 @@ body
     opacity: 0.9;
     background-attachment: fixed;
 }
-.mySlides {display:none;
+.mySlides {display:flex;
    margin-left: 100px;
 }
 .row2 {
@@ -30,6 +30,7 @@ body
 }
 .btn1,.btn2{
     margin-left: 80%;
+    display:flex;
     height:40px;
     width:100px;
     text-align: center;
